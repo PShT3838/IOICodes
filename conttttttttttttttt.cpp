@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+//salam
 #define ll long long
 #define pb push_back
 #define all(x) x.begin(), x.end()
